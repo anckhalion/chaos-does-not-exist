@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "Se usi o citi quest'opera, cita l'edizione che hai letto. / If you use or cite this work, cite the edition you read."
+type: dataset
+title: "Il caos non esiste — Gli esponenti di Lyapunov e il vettore reale dei sistemi"
+authors:
+  - family-names: "Ghioni"
+    given-names: "Fabio"
+    orcid: "https://orcid.org/0009-0009-0415-9434"
+date-released: "2026-10-09"
+license: CC-BY-4.0
+repository-code: "https://github.com/anckhalion/chaos-does-not-exist"
+abstract: >
+  Il volume rilegge alla lettera i risultati classici della teoria dei sistemi dinamici,
+  senza contestarne alcuno. Tesi: ogni sistema reale esprime in ogni istante un vettore —
+  una direzione di movimento determinata dal campo di relazioni in cui è immerso — e
+  rispetto a quel vettore è perfettamente ordinato. Il «caos» è il nome di una distanza:
+  quella fra il vettore espresso e il vettore che la mappa dell'osservatore gli aveva
+  assegnato. L'esponente di Lyapunov misura dunque il tasso al quale la mappa scade.
+  Dalla rilettura segue una cartografia: un paesaggio di attrattori con le loro scadenze,
+  le regole di transito, il confine fra regime di spinta e regime di richiamo, e tre
+  mestieri — leggere la rotta, misurare l'arrivo di una transizione, riconoscere dove un
+  intervento minimo decide. Gradi di confidenza espliciti (S0-S3). Primo volume di un
+  programma in tre: il secondo tratta la meccanica di orientamento, il terzo la
+  cronodinamica alla scala storica.
+  —
+  This volume re-reads the classical results of dynamical systems theory literally,
+  contesting none of them. Thesis: every real system expresses, at each instant, a vector —
+  a direction of movement determined by the field of relations it is embedded in — and with
+  respect to that vector it is perfectly ordered. "Chaos" is the name of a distance: the one
+  between the expressed vector and the vector the observer's map had assigned to it. The
+  Lyapunov exponent therefore measures the rate at which the map expires. From the re-reading
+  follows a cartography: a landscape of attractors with their expiry dates, the rules of
+  transit, the boundary between push and pull regimes, and three crafts — reading the course,
+  measuring the arrival of a transition, recognising where a minimal intervention decides.
+  Explicit confidence grades (S0-S3). First volume of a programme of three.
+  —
+  L'edizione inglese sarà composizione nativa con identificatori propri, non traduzione. /
+  The English edition will be a native composition with its own identifiers, not a translation.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23266134"
+    description: "Edizione italiana, record Zenodo della prima edizione / Italian edition, Zenodo record of the first edition"
+  - type: other
+    value: "ISBN 979-12-82603-21-8"
+    description: "Edizione italiana a stampa, Ordinative Sciences Press / Italian print edition"
+keywords:
+  - Lyapunov exponents
+  - chaos theory
+  - dynamical systems
+  - attractors
+  - predictability horizon
+  - nonlinear dynamics
+  - critical transitions
+  - ordinative sciences
+  - technology of expressions
+  - structural epistemology
+references:
+  - type: book
+    title: "Il caos non esiste — Gli esponenti di Lyapunov e il vettore reale dei sistemi"
+    authors:
+      - family-names: "Ghioni"
+        given-names: "Fabio"
+        orcid: "https://orcid.org/0009-0009-0415-9434"
+    publisher:
+      name: "Ordinative Sciences Press"
+    year: 2026
+    languages:
+      - ita
+    version: "1.0"
+    doi: "10.5281/zenodo.23266134"
+    isbn: "979-12-82603-21-8"
+    license: CC-BY-4.0
+    abstract: "Edizione italiana, composizione nativa. 372 pagine, 22 capitoli in cinque parti, conclusione e tre appendici, 226 note a fine capitolo, 26 diagrammi, bibliografia di 253 voci."
